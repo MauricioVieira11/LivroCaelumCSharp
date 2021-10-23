@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\bin\Debug\net5.0\Capitulo8.exe
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\bin\Debug\net5.0\Capitulo8.deps.json
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\bin\Debug\net5.0\Capitulo8.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\bin\Debug\net5.0\Capitulo8.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\bin\Debug\net5.0\Capitulo8.dll
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\bin\Debug\net5.0\ref\Capitulo8.dll
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\bin\Debug\net5.0\Capitulo8.pdb
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.dll
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\ref\Capitulo8.dll
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.pdb
+C:\Users\mauri\source\repos\LivroCaelum\Capitulo8\Capitulo8\obj\Debug\net5.0\Capitulo8.genruntimeconfig.cache

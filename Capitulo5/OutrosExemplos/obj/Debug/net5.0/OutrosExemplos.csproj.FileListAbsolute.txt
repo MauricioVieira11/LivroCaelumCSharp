@@ -1,0 +1,15 @@
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\bin\Debug\net5.0\OutrosExemplos.exe
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\bin\Debug\net5.0\OutrosExemplos.deps.json
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\bin\Debug\net5.0\OutrosExemplos.runtimeconfig.json
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\bin\Debug\net5.0\OutrosExemplos.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\bin\Debug\net5.0\OutrosExemplos.dll
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\bin\Debug\net5.0\ref\OutrosExemplos.dll
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\bin\Debug\net5.0\OutrosExemplos.pdb
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\OutrosExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\OutrosExemplos.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\OutrosExemplos.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\OutrosExemplos.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\OutrosExemplos.dll
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\ref\OutrosExemplos.dll
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\OutrosExemplos.pdb
+C:\Users\mauri\source\repos\Capitulo5\OutrosExemplos\obj\Debug\net5.0\OutrosExemplos.genruntimeconfig.cache

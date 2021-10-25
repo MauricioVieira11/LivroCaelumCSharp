@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\bin\Debug\net5.0\Capitulo5.exe
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\bin\Debug\net5.0\Capitulo5.deps.json
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\bin\Debug\net5.0\Capitulo5.runtimeconfig.json
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\bin\Debug\net5.0\Capitulo5.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\bin\Debug\net5.0\Capitulo5.dll
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\bin\Debug\net5.0\ref\Capitulo5.dll
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\bin\Debug\net5.0\Capitulo5.pdb
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.dll
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\ref\Capitulo5.dll
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.pdb
+C:\Users\mauri\source\repos\Capitulo5\Capitulo5\obj\Debug\net5.0\Capitulo5.genruntimeconfig.cache
